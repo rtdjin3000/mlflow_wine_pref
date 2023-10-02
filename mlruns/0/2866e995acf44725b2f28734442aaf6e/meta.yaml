@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rittw/Documents/PythonScripts/mlflow_wine_pref/mlruns/0/2866e995acf44725b2f28734442aaf6e/artifacts
+end_time: 1696280860401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2866e995acf44725b2f28734442aaf6e
+run_name: capricious-skunk-460
+run_uuid: 2866e995acf44725b2f28734442aaf6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696280854383
+status: 3
+tags: []
+user_id: rittw

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rittw/Documents/PythonScripts/mlflow_wine_pref/mlruns/0/b0cbb83b12064471a699cd3705039832/artifacts
+end_time: 1696279871221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0cbb83b12064471a699cd3705039832
+run_name: big-roo-816
+run_uuid: b0cbb83b12064471a699cd3705039832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696279865891
+status: 3
+tags: []
+user_id: rittw

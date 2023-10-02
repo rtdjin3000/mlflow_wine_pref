@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rittw/Documents/PythonScripts/mlflow_wine_pref/mlruns/0/09c3957e9fe644f8ab5a64f03909ffcb/artifacts
+end_time: 1696280217271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09c3957e9fe644f8ab5a64f03909ffcb
+run_name: painted-dolphin-134
+run_uuid: 09c3957e9fe644f8ab5a64f03909ffcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696280211250
+status: 3
+tags: []
+user_id: rittw
