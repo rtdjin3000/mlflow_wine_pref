@@ -19,3 +19,8 @@ git commit -m "This is my first commit for this project"
 git push origin main --force
 
 ```
+
+MLFLOW_TRACKING_URI=https://dagshub.com/rtdjin3000/mlflow_wine_prefer.mlflow \
+MLFLOW_TRACKING_USERNAME=rtdjin3000 \
+MLFLOW_TRACKING_PASSWORD=c5baa3e86b7d810035c6b85ee726ab0092a215f9 \
+python script.py
